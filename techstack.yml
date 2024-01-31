@@ -1,0 +1,206 @@
+repo_name: rongfengliang/webpagetest-mapper
+report_id: b7234f7c6bfe608138ab496b1a720b02
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:02:29+00:00'
+requested_by: rowanmanning
+provider: github
+branch: master
+detected_tools_count: 16
+tools:
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2015-03-04 15:29:12.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper
+  detection_source: Repo Metadata
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2014-12-30 10:13:16.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper
+  detection_source: Repo Metadata
+- name: JSHint
+  description: A Static Code Analysis Tool for JavaScript
+  website_url: http://www.jshint.com/about/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2014-12-30 10:13:16.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2015-03-11 15:06:02.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Phil Booth
+  last_updated_on: 2015-01-08 13:11:18.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2014-12-30 10:13:16.000000000 Z
+- name: Mockery
+  website_url: https://github.com/padraic/mockery
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4590/19780.jpeg
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2014-12-31 10:58:03.000000000 Z
+- name: WebPageTest
+  website_url: https://www.webpagetest.org/about
+  open_source: false
+  hosted_saas: false
+  category: Collaboration
+  sub_category: Issue Tracking
+  image_url: https://img.stackshare.io/service/8537/no-img-open-source.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2015-01-03 20:31:35.000000000 Z
+- name: bfj
+  description: Big-friendly JSON
+  package_url: https://www.npmjs.com/bfj
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16822/default_9a5182350af29cb82b3344853e865051f508ac6c.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2014-12-30 10:13:16.000000000 Z
+- name: check-types
+  description: A little library for asserting types and values
+  package_url: https://www.npmjs.com/check-types
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18003/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2015-03-11 15:06:02.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2015-03-11 15:06:02.000000000 Z
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2015-03-04 15:29:12.000000000 Z
+- name: jszip
+  description: Create
+  package_url: https://www.npmjs.com/jszip
+  license: MIT,GPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16628/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2015-06-01 12:31:25.000000000 Z
+- name: mockery
+  description: Simplifying the use of mocks with Node.js
+  package_url: https://www.npmjs.com/mockery
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16537/default_e8b43b4cc93dd2989e630d56550f589fccdcda03.png
+  detection_source_url: https://github.com/rongfengliang/webpagetest-mapper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Phil Booth
+  last_updated_on: 2014-12-31 10:58:03.000000000 Z
